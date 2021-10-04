@@ -11,3 +11,4 @@ Each file has some tasks to complete:
 1. CSS stylesheet: fell free to modify the design as you like BUT keep the color palette.
 2. JS: complete the tasks
 3. HTML: the file is a mess!! Please make it more readable. 
+4. improve this readme file.
