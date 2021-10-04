@@ -5,7 +5,7 @@ This is a repository for Code Newbies. The tasks are very simple, this is just t
 
 We want to create a Sheep Counter that looks like this: 
 
-![img](sheepCounter.png)
+![img](img/sheepCounter.png)
 
 # TASKS
 
